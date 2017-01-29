@@ -1,0 +1,51 @@
+Artsy---------------------------Amazon Order - Paint Bushes,-3171
+Musical---------------------------Guitar Center,-4036
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1323
+Eating-in---------------------------Ralph's Grocery Store,-1458
+Musical---------------------------Music Lessons - Piano,-3071
+Coffee---------------------------Starbucks Coffee,-1531
+Utility---------------------------Water & Sewer,-1060
+No-car---------------------------Taxi,-1792
+Misc.---------------------------FedEx Shipping,-16
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-610
+No-car---------------------------Lyft,-2552
+Parent---------------------------Amazon Order - Baby Crib,-11
+Moving---------------------------Home Depot,-43
+Artsy---------------------------Ashley's Craft Store,-3281
+No-car---------------------------Public Transportation - Bus Pass,-2384
+Eating Out---------------------------Restaurant - Pizza,-1694
+Eating-in---------------------------Sprouts Market,-1339
+Parent---------------------------Babies "R" Us,-18
+Married---------------------------Wedding Planner,-39
+No-car---------------------------Uber,-2751
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-38
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-405
+Income---------------------------Paycheck,32013
+Home/Apartment Owner---------------------------Housing Rent,-20090
+Married---------------------------Kay Jewelry,-13
+Parent---------------------------Hospital - Prenatal Care,-40
+Moving---------------------------Refrigerator Depot,-28
+Artsy---------------------------Michael's Crafts,-3614
+Eating-in---------------------------Food Delivery - GrubHub,-1230
+Artsy---------------------------Art's Art Supplies,-2842
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-441
+Moving---------------------------Mark's Movers,-37
+Eating Out---------------------------Restaurant - Steakhouse,-1730
+No-car---------------------------Public Transportation - Train Pass,-2136
+Moving---------------------------Hamilton Move & Storage,-36
+Eating-in---------------------------Whole Foods,-1534
+Eating Out---------------------------Restaurant - Burgers,-1095
+Eating Out---------------------------Restaurant - Chinese,-1319
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-542
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-28
+Artsy---------------------------Amazon Order - Paint Canvas,-3729
+Student---------------------------ACS - Student Loans,-2700
+Moving---------------------------Jerome's Furniture,-7
+Artsy---------------------------Art Auction,-3934
+Artsy---------------------------Painting Course Fees,-3946
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1616
+Travel---------------------------Cancun Beach Resort,-34

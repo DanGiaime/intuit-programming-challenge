@@ -1,0 +1,45 @@
+Podcast Subscription,-3391
+Refrigerator Depot,-33
+Ralph's Grocery Store,-1563
+Food Delivery - Uber Eats,-2995
+Food Delivery - GrubHub,-4967
+Mark's Movers,-18
+Restaurant - Steakhouse,-1322
+Red Box DVD Rental,-4014
+Public Transportation - Train Pass,-3030
+PlayStation Membership,-3066
+Hamilton Move & Storage,-118
+Whole Foods,-1572
+Starbucks Coffee,-1641
+Water & Sewer,-1060
+Restaurant - Burgers,-1102
+Taxi,-2235
+FedEx Shipping,-36
+Restaurant - Chinese,-1469
+Lyft,-2444
+Amazon Order - Baby Crib,-39
+On Demand Movie,-3283
+Credit Card Payment,-3080
+Home Depot,-35
+Pet Smart,-4213
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-9
+On Demand TV,-3518
+Gas & Electric,-640
+Public Transportation - Bus Pass,-2604
+Pet Supply - Cat Food,-2855
+Sprouts Market,-1527
+Restaurant - Pizza,-1470
+Babies "R" Us,-117
+Wedding Planner,-33
+Uber,-2774
+Jerome's Furniture,-104
+Wine Delivery,-3969
+Southwest Flights - Cancun,-23
+Housing Rent,-21673
+Kay Jewelry,-29
+Paycheck,27030
+Netflix Subscription,-100
+Von's Groceries,-1531
+Hospital - Prenatal Care,-21
+Cancun Beach Resort,-37

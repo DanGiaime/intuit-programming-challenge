@@ -1,0 +1,45 @@
+Artsy---------------------------Amazon Order - Paint Bushes,-3699
+Moving---------------------------Refrigerator Depot,-22
+Musical---------------------------Guitar Center,-4949
+Artsy---------------------------Michael's Crafts,-4041
+Eating-in---------------------------Ralph's Grocery Store,-1237
+Eating-in---------------------------Food Delivery - GrubHub,-1012
+Artsy---------------------------Art's Art Supplies,-4413
+Musical---------------------------Music Lessons - Piano,-4641
+Moving---------------------------Mark's Movers,-19
+Eating Out---------------------------Restaurant - Steakhouse,-1441
+No-car---------------------------Public Transportation - Train Pass,-2132
+Moving---------------------------Hamilton Move & Storage,-11
+Eating-in---------------------------Whole Foods,-916
+Coffee---------------------------Starbucks Coffee,-1635
+Eating Out---------------------------Restaurant - Burgers,-1212
+No-car---------------------------Taxi,-2658
+Misc.---------------------------FedEx Shipping,-24
+Eating Out---------------------------Restaurant - Chinese,-1442
+No-car---------------------------Lyft,-2782
+Parent---------------------------Amazon Order - Baby Crib,-6
+Credit Card---------------------------Credit Card Payment,-3080
+Moving---------------------------Home Depot,-33
+Artsy---------------------------Ashley's Craft Store,-4215
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-5
+Artsy---------------------------Amazon Order - Paint Canvas,-4665
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-2323
+Eating-in---------------------------Sprouts Market,-1371
+Eating Out---------------------------Restaurant - Pizza,-813
+Parent---------------------------Babies "R" Us,-10
+Married---------------------------Wedding Planner,-65
+No-car---------------------------Uber,-1813
+Moving---------------------------Jerome's Furniture,-64
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-18
+Artsy---------------------------Art Auction,-3620
+Income---------------------------Paycheck,35154
+Home/Apartment Owner---------------------------Housing Rent,-22823
+Married---------------------------Kay Jewelry,-8
+Artsy---------------------------Painting Course Fees,-4479
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1156
+Parent---------------------------Hospital - Prenatal Care,-2
+Travel---------------------------Cancun Beach Resort,-5

@@ -1,0 +1,31 @@
+Cord-cutter---------------------------Podcast Subscription,-4438
+Eating-in---------------------------Ralph's Grocery Store,-1032
+No-car---------------------------Food Delivery - Uber Eats,-4052
+Eating-in---------------------------Food Delivery - GrubHub,-4769
+Eating Out---------------------------Restaurant - Steakhouse,-1162
+Cord-cutter---------------------------Red Box DVD Rental,-4792
+Gamer---------------------------PlayStation Membership,-4429
+No-car---------------------------Public Transportation - Train Pass,-2998
+Eating-in---------------------------Whole Foods,-1542
+Coffee---------------------------Starbucks Coffee,-1207
+Utility---------------------------Water & Sewer,-1060
+Eating Out---------------------------Restaurant - Burgers,-1374
+No-car---------------------------Taxi,-3267
+Eating Out---------------------------Restaurant - Chinese,-1348
+No-car---------------------------Lyft,-2369
+Parent---------------------------Amazon Order - Baby Crib,-13
+Movies---------------------------On Demand Movie,-3834
+Artsy---------------------------Pet Smart,-3783
+Parent---------------------------BuyBuyBaby.com,-16
+Cord-cutter---------------------------On Demand TV,-3666
+No-car---------------------------Public Transportation - Bus Pass,-1957
+Pet-owner---------------------------Pet Supply - Cat Food,-3847
+Eating-in---------------------------Sprouts Market,-1125
+Eating Out---------------------------Restaurant - Pizza,-1189
+Parent---------------------------Babies "R" Us,-7
+No-car---------------------------Uber,-2410
+Drinking---------------------------Wine Delivery,-3234
+Income---------------------------Paycheck,30700
+Home/Apartment Owner---------------------------Housing Rent,-20301
+Eating-in---------------------------Von's Groceries,-947
+Parent---------------------------Hospital - Prenatal Care,-102

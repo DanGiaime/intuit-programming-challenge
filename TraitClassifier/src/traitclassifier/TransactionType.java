@@ -5,6 +5,8 @@
  */
 package traitclassifier;
 
+import java.util.Arrays;
+
 /**
  *
  * @author dgiai
@@ -29,5 +31,9 @@ public class TransactionType {
     
     public String getType(){
         return myType;
+    }
+    
+    public String toString(){
+        return "Type: " + myType + " Associated words: " + Arrays.toString(myClassifiers);
     }
 }

@@ -1,0 +1,31 @@
+Cord-cutter---------------------------Podcast Subscription,-3510
+Eating-in---------------------------Ralph's Grocery Store,-1782
+No-car---------------------------Food Delivery - Uber Eats,-4168
+Eating-in---------------------------Food Delivery - GrubHub,-6583
+Eating Out---------------------------Restaurant - Steakhouse,-1257
+Cord-cutter---------------------------Red Box DVD Rental,-4639
+Gamer---------------------------PlayStation Membership,-3930
+No-car---------------------------Public Transportation - Train Pass,-2200
+Eating-in---------------------------Whole Foods,-1509
+Coffee---------------------------Starbucks Coffee,-1942
+Eating Out---------------------------Restaurant - Burgers,-1353
+No-car---------------------------Taxi,-2289
+Eating Out---------------------------Restaurant - Chinese,-1560
+No-car---------------------------Lyft,-2574
+Movies---------------------------On Demand Movie,-3249
+Artsy---------------------------Pet Smart,-2145
+Cord-cutter---------------------------On Demand TV,-3880
+No-car---------------------------Public Transportation - Bus Pass,-3470
+Pet-owner---------------------------Pet Supply - Cat Food,-3996
+Eating Out---------------------------Restaurant - Pizza,-1160
+Eating-in---------------------------Sprouts Market,-1017
+Married---------------------------Wedding Planner,-8
+No-car---------------------------Uber,-2102
+Drinking---------------------------Wine Delivery,-4006
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-98
+Income---------------------------Paycheck,75280
+Home/Apartment Owner---------------------------Housing Rent,-23435
+Married---------------------------Kay Jewelry,-39
+Eating-in---------------------------Von's Groceries,-1376
+Travel---------------------------Cancun Beach Resort,-18

@@ -1,0 +1,31 @@
+Podcast Subscription,-3510
+Ralph's Grocery Store,-1782
+Food Delivery - Uber Eats,-4168
+Food Delivery - GrubHub,-6583
+Restaurant - Steakhouse,-1257
+Red Box DVD Rental,-4639
+PlayStation Membership,-3930
+Public Transportation - Train Pass,-2200
+Whole Foods,-1509
+Starbucks Coffee,-1942
+Restaurant - Burgers,-1353
+Taxi,-2289
+Restaurant - Chinese,-1560
+Lyft,-2574
+On Demand Movie,-3249
+Pet Smart,-2145
+On Demand TV,-3880
+Public Transportation - Bus Pass,-3470
+Pet Supply - Cat Food,-3996
+Restaurant - Pizza,-1160
+Sprouts Market,-1017
+Wedding Planner,-8
+Uber,-2102
+Wine Delivery,-4006
+Time Warner Cable,-500
+Southwest Flights - Cancun,-98
+Paycheck,75280
+Housing Rent,-23435
+Kay Jewelry,-39
+Von's Groceries,-1376
+Cancun Beach Resort,-18

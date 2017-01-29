@@ -1,0 +1,42 @@
+Cord-cutter---------------------------Podcast Subscription,-3223
+Moving---------------------------Refrigerator Depot,-11
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1110
+Eating-in---------------------------Ralph's Grocery Store,-1291
+No-car---------------------------Food Delivery - Uber Eats,-3898
+Eating-in---------------------------Food Delivery - GrubHub,-4500
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-474
+Moving---------------------------Mark's Movers,-1
+Eating Out---------------------------Restaurant - Steakhouse,-1305
+Cord-cutter---------------------------Red Box DVD Rental,-3250
+Gamer---------------------------PlayStation Membership,-3936
+No-car---------------------------Public Transportation - Train Pass,-2679
+Moving---------------------------Hamilton Move & Storage,-29
+Eating-in---------------------------Whole Foods,-1102
+Coffee---------------------------Starbucks Coffee,-1140
+Eating Out---------------------------Restaurant - Burgers,-1052
+No-car---------------------------Taxi,-2880
+Misc.---------------------------FedEx Shipping,-17
+Eating Out---------------------------Restaurant - Chinese,-1297
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-655
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-524
+No-car---------------------------Lyft,-2842
+Parent---------------------------Amazon Order - Baby Crib,-98
+Movies---------------------------On Demand Movie,-3488
+Credit Card---------------------------Credit Card Payment,-3080
+Moving---------------------------Home Depot,-7
+Artsy---------------------------Pet Smart,-3721
+Parent---------------------------BuyBuyBaby.com,-19
+Cord-cutter---------------------------On Demand TV,-2977
+No-car---------------------------Public Transportation - Bus Pass,-2959
+Pet-owner---------------------------Pet Supply - Cat Food,-4088
+Eating Out---------------------------Restaurant - Pizza,-1070
+Eating-in---------------------------Sprouts Market,-934
+Parent---------------------------Babies "R" Us,-32
+No-car---------------------------Uber,-3392
+Moving---------------------------Jerome's Furniture,-11
+Drinking---------------------------Wine Delivery,-3032
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-469
+Income---------------------------Paycheck,11660
+Home/Apartment Owner---------------------------Housing Rent,-20660
+Eating-in---------------------------Von's Groceries,-1081
+Parent---------------------------Hospital - Prenatal Care,-15

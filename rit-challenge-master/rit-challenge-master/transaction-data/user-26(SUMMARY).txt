@@ -1,0 +1,45 @@
+Refrigerator Depot,-32
+Ralph's Grocery Store,-1148
+Comfort Inn,-30
+Vitamin Shoppe,-3028
+Food Delivery - GrubHub,-1167
+NBA Ticket - Lakers,-3793
+Mark's Movers,-21
+Restaurant - Steakhouse,-1202
+Public Transportation - Train Pass,-2541
+Hamilton Move & Storage,-17
+Whole Foods,-955
+Starbucks Coffee,-1142
+Restaurant - Burgers,-1356
+Taxi,-2132
+FedEx Shipping,-40
+Restaurant - Chinese,-1501
+Total Gym Fees,-3951
+Lyft,-2904
+Amazon Order - Baby Crib,-39
+Credit Card Payment,-3080
+Home Depot,-37
+Divorce Lawyer Fees,-8
+BuyBuyBaby.com,-27
+Dick's Sporting Goods,-3983
+Public Transportation - Bus Pass,-1996
+NFL Ticket - Chargers,-4557
+Athletic Apparel,-3613
+Best Western Hotel,-19
+Sam's Sporting Apparel,-4036
+Sprouts Market,-768
+Restaurant - Pizza,-842
+Babies "R" Us,-22
+Wedding Planner,-28
+Amazon Order - Athletic Equipment,-2535
+Uber,-2561
+Jerome's Furniture,-18
+Southwest Flights - Cancun,-30
+Paycheck,84380
+Housing Rent,-20566
+Kay Jewelry,-16
+Von's Groceries,-1117
+Hospital - Prenatal Care,-31
+GNC,-3360
+Bike Rental,-4596
+Cancun Beach Resort,-21

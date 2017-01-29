@@ -1,53 +1,53 @@
-Ralph's Grocery Store: -1297
-Comfort Inn: -8
-Starbucks Coffee: -1393
-Water & Sewer: -1060
-Taxi: -2378
-FedEx Shipping: -20
-Lyft: -2382
-Amazon Order - Baby Crib: -35
-Home Depot: -42
-Divorce Lawyer Fees: -17
-Bowling: -3468
-Public Transportation - Bus Pass: -2557
-John's Bar & Restaurant: -3252
-Sprouts Market: -1683
-Restaurant - Pizza: -1045
-Babies "R" Us: -40
-Wedding Planner: -21
-Uber: -2654
-Wine Bar: -3293
-Time Warner Cable: -500
-Southwest Flights - Cancun: -24
-Concert Ticket: -2681
-Housing Rent: -20526
-Kay Jewelry: -3
-Paycheck: 5842
-Hospital - Prenatal Care: -17
-Seaside Bar: -3646
-Karaoke Bar: -2499
-Refrigerator Depot: -116
-Food Delivery - GrubHub: -1187
-Mark's Movers: -24
-Restaurant - Steakhouse: -1338
-Rodriguez's Bar and Grill: -3484
-Public Transportation - Train Pass: -3357
-Movie Ticket: -4070
-Hamilton Move & Storage: -37
-Whole Foods: -1133
-Restaurant - Burgers: -1523
-Restaurant - Chinese: -1944
-Ice Skating Rink: -2426
-Fisker Night Club: -2772
-Credit Card Payment: -3080
-Navient - Student Loans: -3940
-BuyBuyBaby.com: -30
-Gas & Electric: -640
-Best Western Hotel: -34
-Green Flash Brewery: -3739
-ACS - Student Loans: -2700
-Jerome's Furniture: -12
-Owl Night Club: -3606
-Netflix Subscription: -100
-Von's Groceries: -1395
-Cancun Beach Resort: -7
+Ralph's Grocery Store,-1297
+Comfort Inn,-8
+Starbucks Coffee,-1393
+Water & Sewer,-1060
+Taxi,-2378
+FedEx Shipping,-20
+Lyft,-2382
+Amazon Order - Baby Crib,-35
+Home Depot,-42
+Divorce Lawyer Fees,-17
+Bowling,-3468
+Public Transportation - Bus Pass,-2557
+John's Bar & Restaurant,-3252
+Sprouts Market,-1683
+Restaurant - Pizza,-1045
+Babies "R" Us,-40
+Wedding Planner,-21
+Uber,-2654
+Wine Bar,-3293
+Time Warner Cable,-500
+Southwest Flights - Cancun,-24
+Concert Ticket,-2681
+Housing Rent,-20526
+Kay Jewelry,-3
+Paycheck,5842
+Hospital - Prenatal Care,-17
+Seaside Bar,-3646
+Karaoke Bar,-2499
+Refrigerator Depot,-116
+Food Delivery - GrubHub,-1187
+Mark's Movers,-24
+Restaurant - Steakhouse,-1338
+Rodriguez's Bar and Grill,-3484
+Public Transportation - Train Pass,-3357
+Movie Ticket,-4070
+Hamilton Move & Storage,-37
+Whole Foods,-1133
+Restaurant - Burgers,-1523
+Restaurant - Chinese,-1944
+Ice Skating Rink,-2426
+Fisker Night Club,-2772
+Credit Card Payment,-3080
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-30
+Gas & Electric,-640
+Best Western Hotel,-34
+Green Flash Brewery,-3739
+ACS - Student Loans,-2700
+Jerome's Furniture,-12
+Owl Night Club,-3606
+Netflix Subscription,-100
+Von's Groceries,-1395
+Cancun Beach Resort,-7

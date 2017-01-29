@@ -24,7 +24,7 @@ public class PurchaseSimplifier {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws IOException{
+    public static void main(String[] args) throws IOException {
         JFileChooser fc = new JFileChooser();
         int returnVal = fc.showSaveDialog(null);
         String file = fc.getSelectedFile().getAbsolutePath();
@@ -51,14 +51,14 @@ public class PurchaseSimplifier {
                     lineOne = false;
                 }
             }
-            
+
             Set<String> keys = transactions.keySet();
             String[] transNames = new String[keys.size()];
             keys.toArray(transNames);
-            
+
             BufferedWriter bw;
-            FileWriter fw  = new FileWriter(
-                    file.substring(0,file.length()-4) + "(SUMMARY).txt");
+            FileWriter fw = new FileWriter(
+                    file.substring(0, file.length() - 4) + "(SUMMARY).txt");
             bw = new BufferedWriter(fw);
             for (String transName : transNames) {
                 bw.write(transName + ","
@@ -69,5 +69,4 @@ public class PurchaseSimplifier {
             fw.close();
         }
     }
-    
 }

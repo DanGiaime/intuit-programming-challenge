@@ -1,0 +1,44 @@
+Amazon Order - Paint Bushes,-3639
+Refrigerator Depot,-9
+Guitar Center,-4098
+Ralph's Grocery Store,-1430
+Michael's Crafts,-4758
+Food Delivery - GrubHub,-1522
+Art's Art Supplies,-3865
+Music Lessons - Piano,-4022
+Mark's Movers,-11
+Restaurant - Steakhouse,-978
+Public Transportation - Train Pass,-3015
+Hamilton Move & Storage,-75
+Whole Foods,-1055
+Starbucks Coffee,-1475
+Restaurant - Burgers,-1763
+Taxi,-2198
+FedEx Shipping,-13
+Restaurant - Chinese,-1579
+Lyft,-2202
+Amazon Order - Baby Crib,-7
+Credit Card Payment,-3080
+Home Depot,-36
+Ashley's Craft Store,-4380
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-39
+Amazon Order - Paint Canvas,-3481
+Gas & Electric,-640
+Public Transportation - Bus Pass,-2083
+Sprouts Market,-1578
+Restaurant - Pizza,-951
+Wedding Planner,-17
+Babies "R" Us,-10
+Uber,-2190
+Jerome's Furniture,-25
+Southwest Flights - Cancun,-9
+Art Auction,-4633
+Paycheck,8381
+Housing Rent,-22780
+Kay Jewelry,-5
+Painting Course Fees,-3786
+Netflix Subscription,-100
+Von's Groceries,-1369
+Hospital - Prenatal Care,-58
+Cancun Beach Resort,-11

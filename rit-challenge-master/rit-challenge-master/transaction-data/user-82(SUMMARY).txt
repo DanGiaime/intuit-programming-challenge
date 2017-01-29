@@ -1,0 +1,50 @@
+Amazon Order - Paint Bushes,-3551
+Guitar Center,-4146
+Credit Card Overdraft Fee,-680
+Ralph's Grocery Store,-1196
+Music Lessons - Piano,-3617
+Water & Sewer,-1060
+Starbucks Coffee,-966
+Taxi,-3092
+FedEx Shipping,-6
+Housing Rent - Late Fee,-666
+Lyft,-2876
+Amazon Order - Baby Crib,-38
+Home Depot,-22
+Ashley's Craft Store,-4312
+Public Transportation - Bus Pass,-2264
+Restaurant - Pizza,-1287
+Sprouts Market,-1377
+Babies "R" Us,-3
+Wedding Planner,-38
+Uber,-2576
+Time Warner Cable,-500
+Southwest Flights - Cancun,-4
+Bank Fee - Negative Balance,-404
+Paycheck,34230
+Housing Rent,-20390
+Kay Jewelry,-38
+Hospital - Prenatal Care,-52
+Refrigerator Depot,-50
+Michael's Crafts,-3607
+Food Delivery - GrubHub,-1572
+Art's Art Supplies,-3266
+Time Warne Cable - Late Payment Fee,-755
+Mark's Movers,-2
+Restaurant - Steakhouse,-876
+Public Transportation - Train Pass,-2137
+Hamilton Move & Storage,-8
+Whole Foods,-1412
+Restaurant - Burgers,-1692
+Restaurant - Chinese,-1327
+Water & Sewer - Late Payment Penalty,-602
+Credit Card Payment,-3080
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-53
+Amazon Order - Paint Canvas,-4109
+ACS - Student Loans,-2700
+Jerome's Furniture,-11
+Art Auction,-4116
+Painting Course Fees,-4175
+Von's Groceries,-1083
+Cancun Beach Resort,-2

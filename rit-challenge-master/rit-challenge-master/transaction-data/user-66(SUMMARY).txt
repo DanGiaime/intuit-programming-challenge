@@ -1,0 +1,33 @@
+Ralph's Grocery Store,-1116
+Comfort Inn,-38
+Food Delivery - GrubHub,-1726
+Restaurant - Steakhouse,-1091
+Rodriguez's Bar and Grill,-3682
+Public Transportation - Train Pass,-2793
+Movie Ticket,-3665
+Whole Foods,-844
+Starbucks Coffee,-1376
+Restaurant - Burgers,-1641
+Taxi,-2667
+Restaurant - Chinese,-1126
+Ice Skating Rink,-3629
+Lyft,-3101
+Fisker Night Club,-3346
+Credit Card Payment,-3080
+Divorce Lawyer Fees,-9
+Bowling,-2945
+Public Transportation - Bus Pass,-2720
+Best Western Hotel,-6
+Green Flash Brewery,-3810
+John's Bar & Restaurant,-2787
+Sprouts Market,-692
+Restaurant - Pizza,-1136
+Uber,-2533
+Owl Night Club,-3389
+Wine Bar,-2954
+Concert Ticket,-3155
+Paycheck,79760
+Housing Rent,-21900
+Von's Groceries,-1049
+Seaside Bar,-3653
+Karaoke Bar,-2631

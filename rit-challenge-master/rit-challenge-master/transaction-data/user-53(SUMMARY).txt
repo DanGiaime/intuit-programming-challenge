@@ -1,0 +1,53 @@
+Credit Card Overdraft Fee,-1576
+Ralph's Grocery Store,-1391
+Starbucks Coffee,-1788
+Water & Sewer,-1060
+Taxi,-2831
+FedEx Shipping,-67
+Housing Rent - Late Fee,-513
+Lyft,-2917
+Amazon Order - Baby Crib,-5
+Home Depot,-5
+Goods2 - ThinkGeek,-2719
+Public Transportation - Bus Pass,-2952
+Amazon Order - Biology Book,-2383
+Restaurant - Pizza,-1797
+Sprouts Market,-1930
+Babies "R" Us,-55
+Wedding Planner,-93
+Uber,-2561
+Southwest Flights - Cancun,-28
+Paycheck,47684
+Housing Rent,-21612
+Bank Fee - Negative Balance,-739
+Kay Jewelry,-88
+Hospital - Prenatal Care,-14
+Refrigerator Depot,-36
+DVD - Star Trek,-2809
+Amazon Order - Star Wars Figurine,-3272
+Coffee,-2355
+Food Delivery - GrubHub,-880
+Time Warne Cable - Late Payment Fee,-592
+Mark's Movers,-14
+Restaurant - Steakhouse,-1204
+Public Transportation - Train Pass,-1996
+Hamilton Move & Storage,-20
+Science Museum,-2634
+Whole Foods,-1054
+Art Museum,-2559
+Restaurant - Burgers,-1358
+Mary's Book Store,-2662
+Amazon Order - Science Book,-2949
+Restaurant - Chinese,-1740
+Water & Sewer - Late Payment Penalty,-762
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-10
+Gas & Electric,-640
+Video Game - PlayStation,-2314
+Jerome's Furniture,-17
+Amazon Order - Mathematics Book,-3204
+Online Education Courses,-1946
+San Diego Museum,-2960
+Von's Groceries,-1363
+Library Membership,-2857
+Cancun Beach Resort,-33

@@ -1,0 +1,37 @@
+Ralph's Grocery Store,-1610
+Comfort Inn,-32
+Vitamin Shoppe,-3285
+Food Delivery - GrubHub,-1141
+NBA Ticket - Lakers,-3527
+Restaurant - Steakhouse,-1542
+Public Transportation - Train Pass,-2253
+Whole Foods,-1096
+Starbucks Coffee,-1586
+Restaurant - Burgers,-1168
+Taxi,-2381
+Restaurant - Chinese,-1264
+Total Gym Fees,-3951
+Lyft,-2376
+Navient - Student Loans,-3940
+Divorce Lawyer Fees,-22
+Dick's Sporting Goods,-4339
+NFL Ticket - Chargers,-2922
+Athletic Apparel,-3657
+Public Transportation - Bus Pass,-2462
+Best Western Hotel,-31
+Sam's Sporting Apparel,-4005
+ACS - Student Loans,-2700
+Restaurant - Pizza,-876
+Sprouts Market,-1458
+Wedding Planner,-29
+Amazon Order - Athletic Equipment,-3676
+Uber,-2101
+Southwest Flights - Cancun,-21
+Paycheck,14316
+Housing Rent,-20695
+Kay Jewelry,-38
+Netflix Subscription,-100
+Von's Groceries,-1035
+GNC,-3383
+Bike Rental,-3668
+Cancun Beach Resort,-26

@@ -1,0 +1,45 @@
+Moving---------------------------Refrigerator Depot,-8
+Eating-in---------------------------Ralph's Grocery Store,-1600
+Moving---------------------------Comfort Inn,-12
+Healthy---------------------------Vitamin Shoppe,-4028
+Eating-in---------------------------Food Delivery - GrubHub,-1412
+Sports---------------------------NBA Ticket - Lakers,-4045
+Moving---------------------------Mark's Movers,-29
+Eating Out---------------------------Restaurant - Steakhouse,-1298
+No-car---------------------------Public Transportation - Train Pass,-2235
+Moving---------------------------Hamilton Move & Storage,-15
+Eating-in---------------------------Whole Foods,-1380
+Coffee---------------------------Starbucks Coffee,-1080
+Eating Out---------------------------Restaurant - Burgers,-1286
+No-car---------------------------Taxi,-2938
+Misc.---------------------------FedEx Shipping,-11
+Eating Out---------------------------Restaurant - Chinese,-1242
+Athletic---------------------------Total Gym Fees,-3617
+No-car---------------------------Lyft,-1557
+Parent---------------------------Amazon Order - Baby Crib,-8
+Moving---------------------------Home Depot,-20
+Divorced---------------------------Divorce Lawyer Fees,-17
+Parent---------------------------BuyBuyBaby.com,-7
+Athletic---------------------------Dick's Sporting Goods,-4279
+Sports---------------------------NFL Ticket - Chargers,-4073
+Athletic---------------------------Athletic Apparel,-3753
+No-car---------------------------Public Transportation - Bus Pass,-2484
+Travel---------------------------Best Western Hotel,-27
+Athletic---------------------------Sam's Sporting Apparel,-3674
+Eating-in---------------------------Sprouts Market,-1059
+Eating Out---------------------------Restaurant - Pizza,-1236
+Parent---------------------------Babies "R" Us,-26
+Married---------------------------Wedding Planner,-19
+Athletic---------------------------Amazon Order - Athletic Equipment,-3825
+No-car---------------------------Uber,-3069
+Moving---------------------------Jerome's Furniture,-24
+Travel---------------------------Southwest Flights - Cancun,-19
+Home/Apartment Owner---------------------------Housing Rent,-21100
+Income---------------------------Paycheck,56160
+Married---------------------------Kay Jewelry,-6
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1063
+Parent---------------------------Hospital - Prenatal Care,-43
+Healthy---------------------------GNC,-4169
+No-car---------------------------Bike Rental,-3946
+Travel---------------------------Cancun Beach Resort,-34

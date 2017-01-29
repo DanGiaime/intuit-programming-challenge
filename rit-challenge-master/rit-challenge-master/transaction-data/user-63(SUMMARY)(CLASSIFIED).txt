@@ -1,0 +1,46 @@
+Artsy---------------------------Amazon Order - Paint Bushes,-3529
+Moving---------------------------Refrigerator Depot,-18
+Musical---------------------------Guitar Center,-3316
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1074
+Artsy---------------------------Michael's Crafts,-2819
+Eating-in---------------------------Ralph's Grocery Store,-1594
+Eating-in---------------------------Food Delivery - GrubHub,-1799
+Artsy---------------------------Art's Art Supplies,-3432
+Musical---------------------------Music Lessons - Piano,-3991
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-468
+Moving---------------------------Mark's Movers,-54
+Eating Out---------------------------Restaurant - Steakhouse,-1220
+No-car---------------------------Public Transportation - Train Pass,-2214
+Moving---------------------------Hamilton Move & Storage,-114
+Eating-in---------------------------Whole Foods,-907
+Coffee---------------------------Starbucks Coffee,-1134
+Eating Out---------------------------Restaurant - Burgers,-1237
+No-car---------------------------Taxi,-2299
+Misc.---------------------------FedEx Shipping,-25
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-613
+Eating Out---------------------------Restaurant - Chinese,-1292
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-494
+No-car---------------------------Lyft,-2274
+Parent---------------------------Amazon Order - Baby Crib,-36
+Moving---------------------------Home Depot,-26
+Artsy---------------------------Ashley's Craft Store,-4179
+Parent---------------------------BuyBuyBaby.com,-74
+Artsy---------------------------Amazon Order - Paint Canvas,-4456
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-2752
+Eating-in---------------------------Sprouts Market,-1237
+Eating Out---------------------------Restaurant - Pizza,-1230
+Parent---------------------------Babies "R" Us,-16
+Married---------------------------Wedding Planner,-1
+No-car---------------------------Uber,-2065
+Moving---------------------------Jerome's Furniture,-65
+Travel---------------------------Southwest Flights - Cancun,-20
+Artsy---------------------------Art Auction,-3652
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-470
+Income---------------------------Paycheck,36900
+Home/Apartment Owner---------------------------Housing Rent,-21782
+Married---------------------------Kay Jewelry,-31
+Artsy---------------------------Painting Course Fees,-5035
+Eating-in---------------------------Von's Groceries,-1100
+Parent---------------------------Hospital - Prenatal Care,-27
+Travel---------------------------Cancun Beach Resort,-36

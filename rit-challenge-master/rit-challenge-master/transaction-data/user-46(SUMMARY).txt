@@ -1,0 +1,53 @@
+Credit Card Overdraft Fee,-1430
+Ralph's Grocery Store,-1298
+Comfort Inn,-21
+NBA Ticket - Lakers,-3858
+Starbucks Coffee,-1008
+Water & Sewer,-1060
+Taxi,-2504
+FedEx Shipping,-39
+Housing Rent - Late Fee,-536
+Lyft,-2353
+Amazon Order - Baby Crib,-21
+Home Depot,-13
+Divorce Lawyer Fees,-14
+Dick's Sporting Goods,-3989
+Athletic Apparel,-4030
+Public Transportation - Bus Pass,-2363
+Sprouts Market,-984
+Restaurant - Pizza,-1126
+Wedding Planner,0
+Babies "R" Us,-72
+Uber,-2732
+Amazon Order - Athletic Equipment,-3543
+Time Warner Cable,-500
+Southwest Flights - Cancun,-30
+Bank Fee - Negative Balance,-906
+Housing Rent,-21350
+Paycheck,49062
+Kay Jewelry,-8
+Hospital - Prenatal Care,-4
+Bike Rental,-3438
+GNC,-3284
+Refrigerator Depot,-33
+Food Delivery - GrubHub,-1268
+Vitamin Shoppe,-3800
+Time Warne Cable - Late Payment Fee,-863
+Mark's Movers,-23
+Restaurant - Steakhouse,-1258
+Public Transportation - Train Pass,-2922
+Hamilton Move & Storage,-28
+Whole Foods,-965
+Restaurant - Burgers,-1090
+Restaurant - Chinese,-1431
+Water & Sewer - Late Payment Penalty,-518
+Total Gym Fees,-3303
+Navient - Student Loans,-3940
+BuyBuyBaby.com,-17
+NFL Ticket - Chargers,-4549
+Best Western Hotel,-25
+Sam's Sporting Apparel,-3748
+ACS - Student Loans,-2700
+Jerome's Furniture,-28
+Von's Groceries,-1245
+Cancun Beach Resort,-34

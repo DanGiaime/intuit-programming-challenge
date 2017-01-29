@@ -1,0 +1,47 @@
+Moving---------------------------Refrigerator Depot,-34
+Sci-fi---------------------------DVD - Star Trek,-3517
+Eating-in---------------------------Ralph's Grocery Store,-1367
+Sci-fi---------------------------Amazon Order - Star Wars Figurine,-2573
+Coffee---------------------------Coffee,-3260
+Eating-in---------------------------Food Delivery - GrubHub,-1259
+Moving---------------------------Mark's Movers,-17
+Eating Out---------------------------Restaurant - Steakhouse,-1133
+No-car---------------------------Public Transportation - Train Pass,-2075
+Moving---------------------------Hamilton Move & Storage,-23
+Eating-in---------------------------Whole Foods,-793
+Student---------------------------Science Museum,-2540
+Artsy---------------------------Art Museum,-2840
+Coffee---------------------------Starbucks Coffee,-831
+Eating Out---------------------------Restaurant - Burgers,-1136
+Literaturey---------------------------Mary's Book Store,-2490
+No-car---------------------------Taxi,-2376
+Student---------------------------Amazon Order - Science Book,-2819
+Misc.---------------------------FedEx Shipping,-39
+Eating Out---------------------------Restaurant - Chinese,-1327
+No-car---------------------------Lyft,-2453
+Parent---------------------------Amazon Order - Baby Crib,-83
+Credit Card---------------------------Credit Card Payment,-3080
+Moving---------------------------Home Depot,-69
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-16
+Sci-fi---------------------------Goods2 - ThinkGeek,-3203
+No-car---------------------------Public Transportation - Bus Pass,-2892
+Student---------------------------Amazon Order - Biology Book,-2824
+Eating Out---------------------------Restaurant - Pizza,-1498
+Gamer---------------------------Video Game - PlayStation,-3047
+Eating-in---------------------------Sprouts Market,-1327
+Married---------------------------Wedding Planner,-11
+Parent---------------------------Babies "R" Us,-1
+No-car---------------------------Uber,-3019
+Moving---------------------------Jerome's Furniture,-36
+Student---------------------------Amazon Order - Mathematics Book,-2763
+Travel---------------------------Southwest Flights - Cancun,-8
+Home/Apartment Owner---------------------------Housing Rent,-20408
+Income---------------------------Paycheck,34233
+Married---------------------------Kay Jewelry,-11
+Pet-owner---------------------------Online Education Courses,-2238
+Literaturey---------------------------San Diego Museum,-1820
+Eating-in---------------------------Von's Groceries,-1140
+Parent---------------------------Hospital - Prenatal Care,-107
+Literaturey---------------------------Library Membership,-2425
+Travel---------------------------Cancun Beach Resort,-24

@@ -1,0 +1,47 @@
+Cord-cutter---------------------------Podcast Subscription,-3662
+Moving---------------------------Refrigerator Depot,-30
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1409
+Eating-in---------------------------Ralph's Grocery Store,-1593
+No-car---------------------------Food Delivery - Uber Eats,-3768
+Eating-in---------------------------Food Delivery - GrubHub,-5589
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-501
+Moving---------------------------Mark's Movers,-62
+Eating Out---------------------------Restaurant - Steakhouse,-1504
+Cord-cutter---------------------------Red Box DVD Rental,-3647
+No-car---------------------------Public Transportation - Train Pass,-2954
+Gamer---------------------------PlayStation Membership,-2763
+Moving---------------------------Hamilton Move & Storage,-38
+Eating-in---------------------------Whole Foods,-1404
+Coffee---------------------------Starbucks Coffee,-1499
+Utility---------------------------Water & Sewer,-1060
+Eating Out---------------------------Restaurant - Burgers,-1073
+No-car---------------------------Taxi,-2760
+Misc.---------------------------FedEx Shipping,-35
+Eating Out---------------------------Restaurant - Chinese,-1964
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-817
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-864
+No-car---------------------------Lyft,-2486
+Parent---------------------------Amazon Order - Baby Crib,-80
+Movies---------------------------On Demand Movie,-3912
+Credit Card---------------------------Credit Card Payment,-3080
+Moving---------------------------Home Depot,-34
+Artsy---------------------------Pet Smart,-3715
+Parent---------------------------BuyBuyBaby.com,-24
+Cord-cutter---------------------------On Demand TV,-3624
+Pet-owner---------------------------Pet Supply - Cat Food,-3492
+No-car---------------------------Public Transportation - Bus Pass,-2574
+Student---------------------------ACS - Student Loans,-2700
+Eating-in---------------------------Sprouts Market,-969
+Eating Out---------------------------Restaurant - Pizza,-1206
+Parent---------------------------Babies "R" Us,-31
+Married---------------------------Wedding Planner,-8
+No-car---------------------------Uber,-2349
+Moving---------------------------Jerome's Furniture,-38
+Drinking---------------------------Wine Delivery,-3665
+Travel---------------------------Southwest Flights - Cancun,-116
+Home/Apartment Owner---------------------------Housing Rent,-22343
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-369
+Married---------------------------Kay Jewelry,-11
+Eating-in---------------------------Von's Groceries,-1211
+Parent---------------------------Hospital - Prenatal Care,-31
+Travel---------------------------Cancun Beach Resort,-34

@@ -1,0 +1,43 @@
+Ralph's Grocery Store,-1299
+Comfort Inn,-31
+Food Delivery - GrubHub,-790
+Restaurant - Steakhouse,-621
+Rodriguez's Bar and Grill,-2614
+Public Transportation - Train Pass,-2509
+Movie Ticket,-3394
+Whole Foods,-1160
+Starbucks Coffee,-1422
+Water & Sewer,-1060
+Restaurant - Burgers,-1567
+Taxi,-2734
+Restaurant - Chinese,-1056
+Ice Skating Rink,-3026
+Lyft,-2423
+Amazon Order - Baby Crib,-1
+Fisker Night Club,-3645
+Credit Card Payment,-3080
+Navient - Student Loans,-3940
+Divorce Lawyer Fees,-38
+BuyBuyBaby.com,-4
+Bowling,-3025
+Gas & Electric,-640
+Public Transportation - Bus Pass,-2106
+Best Western Hotel,-112
+Green Flash Brewery,-2910
+John's Bar & Restaurant,-3654
+ACS - Student Loans,-2700
+Sprouts Market,-1327
+Restaurant - Pizza,-1053
+Babies "R" Us,-35
+Uber,-2417
+Owl Night Club,-3326
+Wine Bar,-3348
+Time Warner Cable,-500
+Concert Ticket,-2830
+Paycheck,35223
+Housing Rent,-21895
+Netflix Subscription,-100
+Von's Groceries,-843
+Hospital - Prenatal Care,-37
+Seaside Bar,-3463
+Karaoke Bar,-2694

@@ -1,0 +1,37 @@
+Eating-in---------------------------Ralph's Grocery Store,-1610
+Moving---------------------------Comfort Inn,-32
+Healthy---------------------------Vitamin Shoppe,-3285
+Eating-in---------------------------Food Delivery - GrubHub,-1141
+Sports---------------------------NBA Ticket - Lakers,-3527
+Eating Out---------------------------Restaurant - Steakhouse,-1542
+No-car---------------------------Public Transportation - Train Pass,-2253
+Eating-in---------------------------Whole Foods,-1096
+Coffee---------------------------Starbucks Coffee,-1586
+Eating Out---------------------------Restaurant - Burgers,-1168
+No-car---------------------------Taxi,-2381
+Eating Out---------------------------Restaurant - Chinese,-1264
+Athletic---------------------------Total Gym Fees,-3951
+No-car---------------------------Lyft,-2376
+Student---------------------------Navient - Student Loans,-3940
+Divorced---------------------------Divorce Lawyer Fees,-22
+Athletic---------------------------Dick's Sporting Goods,-4339
+Sports---------------------------NFL Ticket - Chargers,-2922
+Athletic---------------------------Athletic Apparel,-3657
+No-car---------------------------Public Transportation - Bus Pass,-2462
+Travel---------------------------Best Western Hotel,-31
+Athletic---------------------------Sam's Sporting Apparel,-4005
+Student---------------------------ACS - Student Loans,-2700
+Eating Out---------------------------Restaurant - Pizza,-876
+Eating-in---------------------------Sprouts Market,-1458
+Married---------------------------Wedding Planner,-29
+Athletic---------------------------Amazon Order - Athletic Equipment,-3676
+No-car---------------------------Uber,-2101
+Travel---------------------------Southwest Flights - Cancun,-21
+Income---------------------------Paycheck,14316
+Home/Apartment Owner---------------------------Housing Rent,-20695
+Married---------------------------Kay Jewelry,-38
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1035
+Healthy---------------------------GNC,-3383
+No-car---------------------------Bike Rental,-3668
+Travel---------------------------Cancun Beach Resort,-26

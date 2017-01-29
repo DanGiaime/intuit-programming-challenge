@@ -1,0 +1,37 @@
+Sci-fi---------------------------DVD - Star Trek,-2637
+Eating-in---------------------------Ralph's Grocery Store,-1085
+Sci-fi---------------------------Amazon Order - Star Wars Figurine,-2799
+Coffee---------------------------Coffee,-2957
+Eating-in---------------------------Food Delivery - GrubHub,-1607
+Eating Out---------------------------Restaurant - Steakhouse,-1454
+No-car---------------------------Public Transportation - Train Pass,-2546
+Student---------------------------Science Museum,-2445
+Eating-in---------------------------Whole Foods,-1012
+Artsy---------------------------Art Museum,-3094
+Coffee---------------------------Starbucks Coffee,-1288
+Literaturey---------------------------Mary's Book Store,-3162
+Eating Out---------------------------Restaurant - Burgers,-1503
+No-car---------------------------Taxi,-2941
+Student---------------------------Amazon Order - Science Book,-2278
+Eating Out---------------------------Restaurant - Chinese,-972
+No-car---------------------------Lyft,-1957
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Sci-fi---------------------------Goods2 - ThinkGeek,-2452
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-2800
+Student---------------------------Amazon Order - Biology Book,-3533
+Student---------------------------ACS - Student Loans,-2700
+Gamer---------------------------Video Game - PlayStation,-2915
+Eating-in---------------------------Sprouts Market,-1379
+Eating Out---------------------------Restaurant - Pizza,-1340
+No-car---------------------------Uber,-2014
+Student---------------------------Amazon Order - Mathematics Book,-2792
+Utility---------------------------Time Warner Cable,-500
+Income---------------------------Paycheck,59240
+Home/Apartment Owner---------------------------Housing Rent,-21218
+Pet-owner---------------------------Online Education Courses,-2345
+Literaturey---------------------------San Diego Museum,-3072
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1233
+Literaturey---------------------------Library Membership,-2921

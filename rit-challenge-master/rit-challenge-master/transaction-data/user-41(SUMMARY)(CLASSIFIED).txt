@@ -1,0 +1,33 @@
+Artsy---------------------------Amazon Order - Paint Bushes,-4751
+Musical---------------------------Guitar Center,-4099
+Artsy---------------------------Michael's Crafts,-3883
+Eating-in---------------------------Ralph's Grocery Store,-1432
+Eating-in---------------------------Food Delivery - GrubHub,-1059
+Artsy---------------------------Art's Art Supplies,-3912
+Musical---------------------------Music Lessons - Piano,-4294
+Eating Out---------------------------Restaurant - Steakhouse,-1117
+No-car---------------------------Public Transportation - Train Pass,-2671
+Eating-in---------------------------Whole Foods,-1322
+Coffee---------------------------Starbucks Coffee,-982
+Utility---------------------------Water & Sewer,-1060
+Eating Out---------------------------Restaurant - Burgers,-1299
+No-car---------------------------Taxi,-2750
+Eating Out---------------------------Restaurant - Chinese,-1401
+No-car---------------------------Lyft,-2338
+Credit Card---------------------------Credit Card Payment,-3080
+Artsy---------------------------Ashley's Craft Store,-4074
+Student---------------------------Navient - Student Loans,-3940
+Artsy---------------------------Amazon Order - Paint Canvas,-4744
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-1981
+Student---------------------------ACS - Student Loans,-2700
+Eating-in---------------------------Sprouts Market,-1432
+Eating Out---------------------------Restaurant - Pizza,-1015
+No-car---------------------------Uber,-1951
+Utility---------------------------Time Warner Cable,-500
+Artsy---------------------------Art Auction,-4336
+Income---------------------------Paycheck,87220
+Home/Apartment Owner---------------------------Housing Rent,-21245
+Artsy---------------------------Painting Course Fees,-4005
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1038

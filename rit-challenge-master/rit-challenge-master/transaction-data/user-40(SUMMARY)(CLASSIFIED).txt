@@ -1,0 +1,57 @@
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-822
+Eating-in---------------------------Ralph's Grocery Store,-1483
+Coffee---------------------------Starbucks Coffee,-1931
+Utility---------------------------Water & Sewer,-1060
+No-car---------------------------Taxi,-2479
+Misc.---------------------------FedEx Shipping,-7
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-527
+No-car---------------------------Lyft,-2325
+Parent---------------------------Amazon Order - Baby Crib,-107
+Moving---------------------------Home Depot,-29
+Sci-fi---------------------------Goods2 - ThinkGeek,-2561
+No-car---------------------------Public Transportation - Bus Pass,-1973
+Student---------------------------Amazon Order - Biology Book,-2107
+Eating-in---------------------------Sprouts Market,-1991
+Eating Out---------------------------Restaurant - Pizza,-1580
+Married---------------------------Wedding Planner,-104
+Parent---------------------------Babies "R" Us,-34
+No-car---------------------------Uber,-2961
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-5
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-738
+Income---------------------------Paycheck,70700
+Home/Apartment Owner---------------------------Housing Rent,-21016
+Married---------------------------Kay Jewelry,-38
+Parent---------------------------Hospital - Prenatal Care,-11
+Moving---------------------------Refrigerator Depot,-15
+Sci-fi---------------------------DVD - Star Trek,-2989
+Sci-fi---------------------------Amazon Order - Star Wars Figurine,-2392
+Coffee---------------------------Coffee,-2015
+Eating-in---------------------------Food Delivery - GrubHub,-1445
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-325
+Moving---------------------------Mark's Movers,-108
+Eating Out---------------------------Restaurant - Steakhouse,-1296
+No-car---------------------------Public Transportation - Train Pass,-2746
+Moving---------------------------Hamilton Move & Storage,0
+Student---------------------------Science Museum,-2304
+Eating-in---------------------------Whole Foods,-1038
+Artsy---------------------------Art Museum,-2290
+Eating Out---------------------------Restaurant - Burgers,-1432
+Literaturey---------------------------Mary's Book Store,-2726
+Student---------------------------Amazon Order - Science Book,-2765
+Eating Out---------------------------Restaurant - Chinese,-1446
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-819
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-11
+Utility---------------------------Gas & Electric,-640
+Student---------------------------ACS - Student Loans,-2700
+Gamer---------------------------Video Game - PlayStation,-2172
+Moving---------------------------Jerome's Furniture,-18
+Student---------------------------Amazon Order - Mathematics Book,-2138
+Pet-owner---------------------------Online Education Courses,-1949
+Literaturey---------------------------San Diego Museum,-2217
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1808
+Literaturey---------------------------Library Membership,-2667
+Travel---------------------------Cancun Beach Resort,-87

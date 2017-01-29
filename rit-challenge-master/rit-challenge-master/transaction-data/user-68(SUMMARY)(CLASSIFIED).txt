@@ -1,0 +1,53 @@
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1204
+Eating-in---------------------------Ralph's Grocery Store,-1082
+Moving---------------------------Comfort Inn,-8
+Sports---------------------------NBA Ticket - Lakers,-2691
+Coffee---------------------------Starbucks Coffee,-1370
+Utility---------------------------Water & Sewer,-1060
+No-car---------------------------Taxi,-2951
+Misc.---------------------------FedEx Shipping,-9
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-659
+No-car---------------------------Lyft,-2352
+Parent---------------------------Amazon Order - Baby Crib,-1
+Moving---------------------------Home Depot,-1
+Divorced---------------------------Divorce Lawyer Fees,-16
+Athletic---------------------------Dick's Sporting Goods,-3000
+No-car---------------------------Public Transportation - Bus Pass,-2207
+Athletic---------------------------Athletic Apparel,-2673
+Eating-in---------------------------Sprouts Market,-1569
+Eating Out---------------------------Restaurant - Pizza,-978
+Parent---------------------------Babies "R" Us,-29
+Married---------------------------Wedding Planner,-6
+Athletic---------------------------Amazon Order - Athletic Equipment,-3383
+No-car---------------------------Uber,-2322
+Travel---------------------------Southwest Flights - Cancun,-31
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-757
+Income---------------------------Paycheck,82120
+Home/Apartment Owner---------------------------Housing Rent,-21510
+Married---------------------------Kay Jewelry,-21
+Parent---------------------------Hospital - Prenatal Care,-26
+No-car---------------------------Bike Rental,-3768
+Healthy---------------------------GNC,-4053
+Moving---------------------------Refrigerator Depot,-6
+Healthy---------------------------Vitamin Shoppe,-3160
+Eating-in---------------------------Food Delivery - GrubHub,-1635
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-434
+Moving---------------------------Mark's Movers,-7
+Eating Out---------------------------Restaurant - Steakhouse,-1167
+No-car---------------------------Public Transportation - Train Pass,-2439
+Moving---------------------------Hamilton Move & Storage,-2
+Eating-in---------------------------Whole Foods,-795
+Eating Out---------------------------Restaurant - Burgers,-1004
+Eating Out---------------------------Restaurant - Chinese,-1223
+Athletic---------------------------Total Gym Fees,-3625
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-429
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-35
+Sports---------------------------NFL Ticket - Chargers,-3281
+Travel---------------------------Best Western Hotel,-115
+Athletic---------------------------Sam's Sporting Apparel,-3329
+Moving---------------------------Jerome's Furniture,-64
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1326
+Travel---------------------------Cancun Beach Resort,-24

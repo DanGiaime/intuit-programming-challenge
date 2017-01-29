@@ -1,0 +1,48 @@
+Refrigerator Depot,-21
+Ralph's Grocery Store,-1205
+Comfort Inn,-6
+Food Delivery - GrubHub,-1345
+Mark's Movers,-44
+Restaurant - Steakhouse,-1554
+Rodriguez's Bar and Grill,-2842
+Public Transportation - Train Pass,-2186
+Movie Ticket,-3535
+Hamilton Move & Storage,-11
+Whole Foods,-892
+Starbucks Coffee,-956
+Restaurant - Burgers,-968
+Taxi,-3025
+FedEx Shipping,-19
+Restaurant - Chinese,-1481
+Ice Skating Rink,-3229
+Lyft,-2429
+Amazon Order - Baby Crib,-21
+Fisker Night Club,-2854
+Home Depot,-38
+Divorce Lawyer Fees,-6
+BuyBuyBaby.com,-90
+Bowling,-3785
+Public Transportation - Bus Pass,-2549
+Best Western Hotel,-25
+Green Flash Brewery,-3283
+John's Bar & Restaurant,-3563
+ACS - Student Loans,-2700
+Restaurant - Pizza,-983
+Sprouts Market,-1583
+Babies "R" Us,-31
+Wedding Planner,-109
+Uber,-2316
+Jerome's Furniture,-2
+Owl Night Club,-2462
+Wine Bar,-2718
+Time Warner Cable,-500
+Southwest Flights - Cancun,-16
+Concert Ticket,-2919
+Paycheck,36872
+Housing Rent,-20938
+Kay Jewelry,-16
+Von's Groceries,-1382
+Hospital - Prenatal Care,-3
+Cancun Beach Resort,-18
+Seaside Bar,-2855
+Karaoke Bar,-3756

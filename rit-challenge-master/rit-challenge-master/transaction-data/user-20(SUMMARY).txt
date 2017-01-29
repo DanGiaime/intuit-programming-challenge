@@ -1,0 +1,51 @@
+Ralph's Grocery Store,-1418
+Starbucks Coffee,-1335
+Water & Sewer,-1060
+Taxi,-2165
+FedEx Shipping,-31
+Lyft,-2328
+Amazon Order - Baby Crib,-46
+Home Depot,-25
+Goods2 - ThinkGeek,-2694
+Public Transportation - Bus Pass,-2613
+Amazon Order - Biology Book,-2346
+Restaurant - Pizza,-1803
+Sprouts Market,-1750
+Wedding Planner,-30
+Babies "R" Us,-109
+Uber,-2817
+Time Warner Cable,-500
+Southwest Flights - Cancun,-17
+Paycheck,43256
+Housing Rent,-21075
+Kay Jewelry,-25
+Hospital - Prenatal Care,-36
+Refrigerator Depot,-31
+DVD - Star Trek,-3176
+Amazon Order - Star Wars Figurine,-2321
+Coffee,-2702
+Food Delivery - GrubHub,-1319
+Mark's Movers,-34
+Restaurant - Steakhouse,-1452
+Public Transportation - Train Pass,-2840
+Hamilton Move & Storage,-59
+Science Museum,-3536
+Whole Foods,-1437
+Art Museum,-3375
+Mary's Book Store,-2730
+Restaurant - Burgers,-1370
+Amazon Order - Science Book,-3237
+Restaurant - Chinese,-1526
+Credit Card Payment,-3080
+BuyBuyBaby.com,-5
+Gas & Electric,-640
+ACS - Student Loans,-2700
+Video Game - PlayStation,-2770
+Jerome's Furniture,-24
+Amazon Order - Mathematics Book,-3328
+Online Education Courses,-2815
+San Diego Museum,-2728
+Netflix Subscription,-100
+Von's Groceries,-1231
+Library Membership,-2847
+Cancun Beach Resort,-15

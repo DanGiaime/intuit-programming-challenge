@@ -1,0 +1,54 @@
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-1548
+Eating-in---------------------------Ralph's Grocery Store,-1338
+Moving---------------------------Comfort Inn,-2
+Coffee---------------------------Starbucks Coffee,-1231
+No-car---------------------------Taxi,-2774
+Misc.---------------------------FedEx Shipping,-22
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-738
+No-car---------------------------Lyft,-2402
+Parent---------------------------Amazon Order - Baby Crib,-40
+Moving---------------------------Home Depot,-32
+Divorced---------------------------Divorce Lawyer Fees,-69
+Misc. Entertainment---------------------------Bowling,-2786
+No-car---------------------------Public Transportation - Bus Pass,-2353
+Drinking---------------------------John's Bar & Restaurant,-3065
+Eating-in---------------------------Sprouts Market,-1393
+Eating Out---------------------------Restaurant - Pizza,-1427
+Parent---------------------------Babies "R" Us,-5
+Married---------------------------Wedding Planner,-40
+No-car---------------------------Uber,-2907
+Drinking---------------------------Wine Bar,-3252
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-28
+Musical---------------------------Concert Ticket,-3344
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-855
+Home/Apartment Owner---------------------------Housing Rent,-19699
+Income---------------------------Paycheck,55608
+Married---------------------------Kay Jewelry,-28
+Parent---------------------------Hospital - Prenatal Care,-11
+Drinking---------------------------Seaside Bar,-3078
+Drinking---------------------------Karaoke Bar,-2879
+Moving---------------------------Refrigerator Depot,-56
+Eating-in---------------------------Food Delivery - GrubHub,-1254
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-596
+Moving---------------------------Mark's Movers,-3
+Eating Out---------------------------Restaurant - Steakhouse,-1500
+Drinking---------------------------Rodriguez's Bar and Grill,-2475
+No-car---------------------------Public Transportation - Train Pass,-2601
+Movies---------------------------Movie Ticket,-2664
+Moving---------------------------Hamilton Move & Storage,-74
+Eating-in---------------------------Whole Foods,-1379
+Eating Out---------------------------Restaurant - Burgers,-1328
+Eating Out---------------------------Restaurant - Chinese,-1341
+Misc. Entertainment---------------------------Ice Skating Rink,-2383
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-634
+Drinking---------------------------Fisker Night Club,-2925
+Credit Card---------------------------Credit Card Payment,-3080
+Parent---------------------------BuyBuyBaby.com,-73
+Utility---------------------------Gas & Electric,-640
+Travel---------------------------Best Western Hotel,-39
+Drinking---------------------------Green Flash Brewery,-2752
+Moving---------------------------Jerome's Furniture,-26
+Drinking---------------------------Owl Night Club,-2027
+Eating-in---------------------------Von's Groceries,-1191
+Travel---------------------------Cancun Beach Resort,-76

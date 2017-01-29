@@ -1,0 +1,44 @@
+Cord-cutter---------------------------Podcast Subscription,-3696
+Moving---------------------------Refrigerator Depot,-8
+Eating-in---------------------------Ralph's Grocery Store,-1421
+No-car---------------------------Food Delivery - Uber Eats,-3785
+Eating-in---------------------------Food Delivery - GrubHub,-4607
+Moving---------------------------Mark's Movers,-86
+Eating Out---------------------------Restaurant - Steakhouse,-1710
+Cord-cutter---------------------------Red Box DVD Rental,-4000
+Gamer---------------------------PlayStation Membership,-3149
+No-car---------------------------Public Transportation - Train Pass,-2581
+Moving---------------------------Hamilton Move & Storage,-24
+Eating-in---------------------------Whole Foods,-1565
+Coffee---------------------------Starbucks Coffee,-2048
+Utility---------------------------Water & Sewer,-1060
+Eating Out---------------------------Restaurant - Burgers,-1180
+No-car---------------------------Taxi,-2129
+Misc.---------------------------FedEx Shipping,-22
+Eating Out---------------------------Restaurant - Chinese,-1749
+No-car---------------------------Lyft,-2113
+Parent---------------------------Amazon Order - Baby Crib,-16
+Movies---------------------------On Demand Movie,-3702
+Moving---------------------------Home Depot,-17
+Artsy---------------------------Pet Smart,-4566
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-14
+Cord-cutter---------------------------On Demand TV,-3452
+Utility---------------------------Gas & Electric,-640
+Pet-owner---------------------------Pet Supply - Cat Food,-3932
+No-car---------------------------Public Transportation - Bus Pass,-3106
+Eating-in---------------------------Sprouts Market,-1161
+Eating Out---------------------------Restaurant - Pizza,-1083
+Parent---------------------------Babies "R" Us,-16
+Married---------------------------Wedding Planner,-9
+No-car---------------------------Uber,-3110
+Moving---------------------------Jerome's Furniture,-74
+Drinking---------------------------Wine Delivery,-3858
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-34
+Income---------------------------Paycheck,82720
+Home/Apartment Owner---------------------------Housing Rent,-22413
+Married---------------------------Kay Jewelry,-7
+Eating-in---------------------------Von's Groceries,-971
+Parent---------------------------Hospital - Prenatal Care,-40
+Travel---------------------------Cancun Beach Resort,-14

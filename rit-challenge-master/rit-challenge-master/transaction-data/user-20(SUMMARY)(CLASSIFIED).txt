@@ -1,0 +1,51 @@
+Eating-in---------------------------Ralph's Grocery Store,-1418
+Coffee---------------------------Starbucks Coffee,-1335
+Utility---------------------------Water & Sewer,-1060
+No-car---------------------------Taxi,-2165
+Misc.---------------------------FedEx Shipping,-31
+No-car---------------------------Lyft,-2328
+Parent---------------------------Amazon Order - Baby Crib,-46
+Moving---------------------------Home Depot,-25
+Sci-fi---------------------------Goods2 - ThinkGeek,-2694
+No-car---------------------------Public Transportation - Bus Pass,-2613
+Student---------------------------Amazon Order - Biology Book,-2346
+Eating Out---------------------------Restaurant - Pizza,-1803
+Eating-in---------------------------Sprouts Market,-1750
+Married---------------------------Wedding Planner,-30
+Parent---------------------------Babies "R" Us,-109
+No-car---------------------------Uber,-2817
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-17
+Income---------------------------Paycheck,43256
+Home/Apartment Owner---------------------------Housing Rent,-21075
+Married---------------------------Kay Jewelry,-25
+Parent---------------------------Hospital - Prenatal Care,-36
+Moving---------------------------Refrigerator Depot,-31
+Sci-fi---------------------------DVD - Star Trek,-3176
+Sci-fi---------------------------Amazon Order - Star Wars Figurine,-2321
+Coffee---------------------------Coffee,-2702
+Eating-in---------------------------Food Delivery - GrubHub,-1319
+Moving---------------------------Mark's Movers,-34
+Eating Out---------------------------Restaurant - Steakhouse,-1452
+No-car---------------------------Public Transportation - Train Pass,-2840
+Moving---------------------------Hamilton Move & Storage,-59
+Student---------------------------Science Museum,-3536
+Eating-in---------------------------Whole Foods,-1437
+Artsy---------------------------Art Museum,-3375
+Literaturey---------------------------Mary's Book Store,-2730
+Eating Out---------------------------Restaurant - Burgers,-1370
+Student---------------------------Amazon Order - Science Book,-3237
+Eating Out---------------------------Restaurant - Chinese,-1526
+Credit Card---------------------------Credit Card Payment,-3080
+Parent---------------------------BuyBuyBaby.com,-5
+Utility---------------------------Gas & Electric,-640
+Student---------------------------ACS - Student Loans,-2700
+Gamer---------------------------Video Game - PlayStation,-2770
+Moving---------------------------Jerome's Furniture,-24
+Student---------------------------Amazon Order - Mathematics Book,-3328
+Pet-owner---------------------------Online Education Courses,-2815
+Literaturey---------------------------San Diego Museum,-2728
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1231
+Literaturey---------------------------Library Membership,-2847
+Travel---------------------------Cancun Beach Resort,-15

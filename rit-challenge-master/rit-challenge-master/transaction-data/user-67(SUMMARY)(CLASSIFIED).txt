@@ -1,0 +1,38 @@
+Eating-in---------------------------Ralph's Grocery Store,-1266
+Moving---------------------------Comfort Inn,-38
+Eating-in---------------------------Food Delivery - GrubHub,-1418
+Eating Out---------------------------Restaurant - Steakhouse,-1954
+Drinking---------------------------Rodriguez's Bar and Grill,-3042
+No-car---------------------------Public Transportation - Train Pass,-1844
+Movies---------------------------Movie Ticket,-3454
+Eating-in---------------------------Whole Foods,-1443
+Utility---------------------------Water & Sewer,-1060
+Coffee---------------------------Starbucks Coffee,-1184
+Eating Out---------------------------Restaurant - Burgers,-1340
+No-car---------------------------Taxi,-2268
+Eating Out---------------------------Restaurant - Chinese,-888
+Misc. Entertainment---------------------------Ice Skating Rink,-3134
+No-car---------------------------Lyft,-2564
+Drinking---------------------------Fisker Night Club,-3068
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Divorced---------------------------Divorce Lawyer Fees,-44
+Misc. Entertainment---------------------------Bowling,-3567
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-2157
+Travel---------------------------Best Western Hotel,-114
+Drinking---------------------------Green Flash Brewery,-3100
+Drinking---------------------------John's Bar & Restaurant,-3099
+Student---------------------------ACS - Student Loans,-2700
+Eating-in---------------------------Sprouts Market,-1530
+Eating Out---------------------------Restaurant - Pizza,-1327
+No-car---------------------------Uber,-2188
+Drinking---------------------------Owl Night Club,-2843
+Drinking---------------------------Wine Bar,-2971
+Utility---------------------------Time Warner Cable,-500
+Musical---------------------------Concert Ticket,-2972
+Income---------------------------Paycheck,85220
+Home/Apartment Owner---------------------------Housing Rent,-20674
+Eating-in---------------------------Von's Groceries,-1352
+Drinking---------------------------Seaside Bar,-2792
+Drinking---------------------------Karaoke Bar,-2924

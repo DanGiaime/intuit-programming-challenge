@@ -1,0 +1,50 @@
+Eating-in---------------------------Ralph's Grocery Store,-1221
+Moving---------------------------Comfort Inn,-78
+Sports---------------------------NBA Ticket - Lakers,-3672
+Coffee---------------------------Starbucks Coffee,-1248
+No-car---------------------------Taxi,-2723
+Misc.---------------------------FedEx Shipping,-33
+No-car---------------------------Lyft,-2328
+Parent---------------------------Amazon Order - Baby Crib,-9
+Moving---------------------------Home Depot,-62
+Divorced---------------------------Divorce Lawyer Fees,-24
+Athletic---------------------------Dick's Sporting Goods,-3096
+No-car---------------------------Public Transportation - Bus Pass,-1958
+Athletic---------------------------Athletic Apparel,-3538
+Eating Out---------------------------Restaurant - Pizza,-1366
+Eating-in---------------------------Sprouts Market,-979
+Parent---------------------------Babies "R" Us,-12
+Married---------------------------Wedding Planner,-6
+No-car---------------------------Uber,-2240
+Athletic---------------------------Amazon Order - Athletic Equipment,-3896
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-26
+Home/Apartment Owner---------------------------Housing Rent,-20398
+Income---------------------------Paycheck,21745
+Married---------------------------Kay Jewelry,-66
+Parent---------------------------Hospital - Prenatal Care,-16
+Healthy---------------------------GNC,-4646
+No-car---------------------------Bike Rental,-3939
+Moving---------------------------Refrigerator Depot,-13
+Eating-in---------------------------Food Delivery - GrubHub,-1420
+Healthy---------------------------Vitamin Shoppe,-3872
+Moving---------------------------Mark's Movers,-58
+Eating Out---------------------------Restaurant - Steakhouse,-848
+No-car---------------------------Public Transportation - Train Pass,-2598
+Moving---------------------------Hamilton Move & Storage,-2
+Eating-in---------------------------Whole Foods,-1474
+Eating Out---------------------------Restaurant - Burgers,-1050
+Eating Out---------------------------Restaurant - Chinese,-1610
+Athletic---------------------------Total Gym Fees,-3741
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-9
+Utility---------------------------Gas & Electric,-640
+Sports---------------------------NFL Ticket - Chargers,-3319
+Travel---------------------------Best Western Hotel,-34
+Athletic---------------------------Sam's Sporting Apparel,-3604
+Student---------------------------ACS - Student Loans,-2700
+Moving---------------------------Jerome's Furniture,-62
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1164
+Travel---------------------------Cancun Beach Resort,-103

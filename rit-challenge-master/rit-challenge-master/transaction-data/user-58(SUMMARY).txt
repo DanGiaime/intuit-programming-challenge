@@ -1,0 +1,47 @@
+Podcast Subscription,-3662
+Refrigerator Depot,-30
+Credit Card Overdraft Fee,-1409
+Ralph's Grocery Store,-1593
+Food Delivery - Uber Eats,-3768
+Food Delivery - GrubHub,-5589
+Time Warne Cable - Late Payment Fee,-501
+Mark's Movers,-62
+Restaurant - Steakhouse,-1504
+Red Box DVD Rental,-3647
+Public Transportation - Train Pass,-2954
+PlayStation Membership,-2763
+Hamilton Move & Storage,-38
+Whole Foods,-1404
+Starbucks Coffee,-1499
+Water & Sewer,-1060
+Restaurant - Burgers,-1073
+Taxi,-2760
+FedEx Shipping,-35
+Restaurant - Chinese,-1964
+Housing Rent - Late Fee,-817
+Water & Sewer - Late Payment Penalty,-864
+Lyft,-2486
+Amazon Order - Baby Crib,-80
+On Demand Movie,-3912
+Credit Card Payment,-3080
+Home Depot,-34
+Pet Smart,-3715
+BuyBuyBaby.com,-24
+On Demand TV,-3624
+Pet Supply - Cat Food,-3492
+Public Transportation - Bus Pass,-2574
+ACS - Student Loans,-2700
+Sprouts Market,-969
+Restaurant - Pizza,-1206
+Babies "R" Us,-31
+Wedding Planner,-8
+Uber,-2349
+Jerome's Furniture,-38
+Wine Delivery,-3665
+Southwest Flights - Cancun,-116
+Housing Rent,-22343
+Bank Fee - Negative Balance,-369
+Kay Jewelry,-11
+Von's Groceries,-1211
+Hospital - Prenatal Care,-31
+Cancun Beach Resort,-34

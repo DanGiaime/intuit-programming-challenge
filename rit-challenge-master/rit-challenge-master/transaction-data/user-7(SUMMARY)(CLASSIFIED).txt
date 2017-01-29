@@ -1,0 +1,53 @@
+Eating-in---------------------------Ralph's Grocery Store,-1678
+Moving---------------------------Comfort Inn,-35
+Coffee---------------------------Starbucks Coffee,-1007
+Utility---------------------------Water & Sewer,-1060
+No-car---------------------------Taxi,-2111
+Misc.---------------------------FedEx Shipping,-36
+No-car---------------------------Lyft,-2314
+Parent---------------------------Amazon Order - Baby Crib,-15
+Moving---------------------------Home Depot,-33
+Divorced---------------------------Divorce Lawyer Fees,-37
+Misc. Entertainment---------------------------Bowling,-2608
+No-car---------------------------Public Transportation - Bus Pass,-2980
+Drinking---------------------------John's Bar & Restaurant,-3533
+Eating-in---------------------------Sprouts Market,-1549
+Eating Out---------------------------Restaurant - Pizza,-1012
+Married---------------------------Wedding Planner,-14
+Parent---------------------------Babies "R" Us,-17
+No-car---------------------------Uber,-3222
+Drinking---------------------------Wine Bar,-3334
+Utility---------------------------Time Warner Cable,-500
+Travel---------------------------Southwest Flights - Cancun,-111
+Musical---------------------------Concert Ticket,-2782
+Income---------------------------Paycheck,56620
+Home/Apartment Owner---------------------------Housing Rent,-21382
+Married---------------------------Kay Jewelry,-1
+Parent---------------------------Hospital - Prenatal Care,-21
+Drinking---------------------------Karaoke Bar,-2697
+Drinking---------------------------Seaside Bar,-3087
+Moving---------------------------Refrigerator Depot,-34
+Eating-in---------------------------Food Delivery - GrubHub,-1596
+Moving---------------------------Mark's Movers,-36
+Eating Out---------------------------Restaurant - Steakhouse,-1658
+Drinking---------------------------Rodriguez's Bar and Grill,-2835
+No-car---------------------------Public Transportation - Train Pass,-1808
+Movies---------------------------Movie Ticket,-3152
+Moving---------------------------Hamilton Move & Storage,-22
+Eating-in---------------------------Whole Foods,-1036
+Eating Out---------------------------Restaurant - Burgers,-1556
+Eating Out---------------------------Restaurant - Chinese,-1200
+Misc. Entertainment---------------------------Ice Skating Rink,-3379
+Drinking---------------------------Fisker Night Club,-2793
+Credit Card---------------------------Credit Card Payment,-3080
+Student---------------------------Navient - Student Loans,-3940
+Parent---------------------------BuyBuyBaby.com,-10
+Utility---------------------------Gas & Electric,-640
+Travel---------------------------Best Western Hotel,-37
+Drinking---------------------------Green Flash Brewery,-3237
+Student---------------------------ACS - Student Loans,-2700
+Moving---------------------------Jerome's Furniture,-32
+Drinking---------------------------Owl Night Club,-3335
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1000
+Travel---------------------------Cancun Beach Resort,-23

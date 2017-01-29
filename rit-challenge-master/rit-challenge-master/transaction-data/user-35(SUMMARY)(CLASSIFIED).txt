@@ -1,0 +1,44 @@
+Moving---------------------------Refrigerator Depot,-62
+Eating-in---------------------------Ralph's Grocery Store,-1064
+Moving---------------------------Comfort Inn,-3
+Eating-in---------------------------Food Delivery - GrubHub,-1552
+Moving---------------------------Mark's Movers,-7
+Eating Out---------------------------Restaurant - Steakhouse,-962
+Drinking---------------------------Rodriguez's Bar and Grill,-3828
+No-car---------------------------Public Transportation - Train Pass,-1832
+Movies---------------------------Movie Ticket,-3272
+Moving---------------------------Hamilton Move & Storage,-4
+Eating-in---------------------------Whole Foods,-787
+Coffee---------------------------Starbucks Coffee,-1115
+Utility---------------------------Water & Sewer,-1060
+Eating Out---------------------------Restaurant - Burgers,-1493
+No-car---------------------------Taxi,-2539
+Misc.---------------------------FedEx Shipping,-6
+Eating Out---------------------------Restaurant - Chinese,-1076
+Misc. Entertainment---------------------------Ice Skating Rink,-2918
+No-car---------------------------Lyft,-2447
+Drinking---------------------------Fisker Night Club,-2237
+Credit Card---------------------------Credit Card Payment,-3080
+Moving---------------------------Home Depot,-29
+Student---------------------------Navient - Student Loans,-3940
+Divorced---------------------------Divorce Lawyer Fees,-10
+Misc. Entertainment---------------------------Bowling,-2694
+Utility---------------------------Gas & Electric,-640
+No-car---------------------------Public Transportation - Bus Pass,-2625
+Travel---------------------------Best Western Hotel,-37
+Drinking---------------------------Green Flash Brewery,-2969
+Drinking---------------------------John's Bar & Restaurant,-2928
+Student---------------------------ACS - Student Loans,-2700
+Eating-in---------------------------Sprouts Market,-924
+Eating Out---------------------------Restaurant - Pizza,-1341
+No-car---------------------------Uber,-2105
+Moving---------------------------Jerome's Furniture,-2
+Drinking---------------------------Owl Night Club,-4055
+Drinking---------------------------Wine Bar,-3182
+Musical---------------------------Concert Ticket,-3840
+Income---------------------------Paycheck,70920
+Home/Apartment Owner---------------------------Housing Rent,-19855
+Cord-cutter---------------------------Netflix Subscription,-100
+Eating-in---------------------------Von's Groceries,-1801
+Drinking---------------------------Seaside Bar,-2994
+Drinking---------------------------Karaoke Bar,-3542

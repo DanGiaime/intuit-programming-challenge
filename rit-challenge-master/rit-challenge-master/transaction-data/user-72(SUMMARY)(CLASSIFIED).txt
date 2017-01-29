@@ -1,0 +1,38 @@
+Artsy---------------------------Amazon Order - Paint Bushes,-3226
+Moving---------------------------Refrigerator Depot,-76
+Musical---------------------------Guitar Center,-4813
+Fiscally irresponsible---------------------------Credit Card Overdraft Fee,-930
+Artsy---------------------------Michael's Crafts,-4223
+Eating-in---------------------------Ralph's Grocery Store,-1165
+Eating-in---------------------------Food Delivery - GrubHub,-1804
+Artsy---------------------------Art's Art Supplies,-4464
+Musical---------------------------Music Lessons - Piano,-3541
+Fiscally irresponsible---------------------------Time Warne Cable - Late Payment Fee,-828
+Moving---------------------------Mark's Movers,-21
+Eating Out---------------------------Restaurant - Steakhouse,-1071
+No-car---------------------------Public Transportation - Train Pass,-1679
+Moving---------------------------Hamilton Move & Storage,-6
+Eating-in---------------------------Whole Foods,-1415
+Coffee---------------------------Starbucks Coffee,-1573
+Eating Out---------------------------Restaurant - Burgers,-1484
+No-car---------------------------Taxi,-2658
+Misc.---------------------------FedEx Shipping,-28
+Fiscally irresponsible---------------------------Housing Rent - Late Fee,-549
+Eating Out---------------------------Restaurant - Chinese,-889
+Fiscally irresponsible---------------------------Water & Sewer - Late Payment Penalty,-833
+No-car---------------------------Lyft,-2326
+Moving---------------------------Home Depot,-21
+Artsy---------------------------Ashley's Craft Store,-3393
+Student---------------------------Navient - Student Loans,-3940
+Artsy---------------------------Amazon Order - Paint Canvas,-3838
+No-car---------------------------Public Transportation - Bus Pass,-2270
+Eating-in---------------------------Sprouts Market,-899
+Eating Out---------------------------Restaurant - Pizza,-1251
+No-car---------------------------Uber,-2101
+Moving---------------------------Jerome's Furniture,-7
+Artsy---------------------------Art Auction,-3788
+Fiscally irresponsible---------------------------Bank Fee - Negative Balance,-1335
+Home/Apartment Owner---------------------------Housing Rent,-19424
+Income---------------------------Paycheck,21010
+Artsy---------------------------Painting Course Fees,-3973
+Eating-in---------------------------Von's Groceries,-856
