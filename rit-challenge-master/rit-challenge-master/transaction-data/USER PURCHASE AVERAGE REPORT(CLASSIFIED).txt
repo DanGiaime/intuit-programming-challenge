@@ -1,0 +1,100 @@
+Artsy,Amazon Order - Paint Bushes,-30
+Cord-cutter,Podcast Subscription,-29
+Musical,Guitar Center,-30
+Fiscally irresponsible,Credit Card Overdraft Fee,-31
+Moving,Comfort Inn,-29
+Gamer,PlayStation Membership,-29
+No-car,Taxi,-29
+No-car,Lyft,-30
+Parent,Amazon Order - Baby Crib,-31
+Moving,Home Depot,-27
+Movies,On Demand Movie,-31
+Misc. Entertainment,Bowling,-29
+No-car,Public Transportation - Bus Pass,-30
+Athletic,Athletic Apparel,-30
+Pet-owner,Pet Supply - Cat Food,-31
+Eating Out,Restaurant - Pizza,-30
+Parent,Babies "R" Us,-32
+No-car,Uber,-30
+Athletic,Amazon Order - Athletic Equipment,-29
+Utility,Time Warner Cable,-25
+Travel,Southwest Flights - Cancun,-29
+Drinking,Wine Bar,-30
+Drinking,Wine Delivery,-31
+Musical,Concert Ticket,-30
+Income,Paycheck,3265
+Fiscally irresponsible,Bank Fee - Negative Balance,-31
+Parent,Hospital - Prenatal Care,-30
+Healthy,GNC,-31
+Drinking,Seaside Bar,-29
+Drinking,Karaoke Bar,-30
+Sci-fi,DVD - Star Trek,-31
+Artsy,Michael's Crafts,-30
+Sci-fi,Amazon Order - Star Wars Figurine,-31
+Coffee,Coffee,-31
+Healthy,Vitamin Shoppe,-30
+Artsy,Art's Art Supplies,-30
+Moving,Mark's Movers,-30
+Fiscally irresponsible,Time Warne Cable - Late Payment Fee,-28
+Eating Out,Restaurant - Steakhouse,-30
+No-car,Public Transportation - Train Pass,-30
+Movies,Movie Ticket,-30
+Eating-in,Whole Foods,-30
+Artsy,Art Museum,-31
+Literaturey,Mary's Book Store,-31
+Eating Out,Restaurant - Chinese,-30
+Misc. Entertainment,Ice Skating Rink,-29
+Fiscally irresponsible,Water & Sewer - Late Payment Penalty,-30
+Cord-cutter,On Demand TV,-29
+Artsy,Amazon Order - Paint Canvas,-31
+Utility,Gas & Electric,-32
+Athletic,Sam's Sporting Apparel,-29
+Gamer,Video Game - PlayStation,-30
+Moving,Jerome's Furniture,-29
+Drinking,Owl Night Club,-31
+Student,Amazon Order - Mathematics Book,-31
+Artsy,Painting Course Fees,-30
+Cord-cutter,Netflix Subscription,-5
+Literaturey,San Diego Museum,-30
+Eating-in,Von's Groceries,-29
+Travel,Cancun Beach Resort,-30
+Eating-in,Ralph's Grocery Store,-30
+Sports,NBA Ticket - Lakers,-30
+Musical,Music Lessons - Piano,-30
+Cord-cutter,Red Box DVD Rental,-31
+Coffee,Starbucks Coffee,-31
+Utility,Water & Sewer,-53
+Misc.,FedEx Shipping,-31
+Fiscally irresponsible,Housing Rent - Late Fee,-29
+Artsy,Ashley's Craft Store,-30
+Divorced,Divorce Lawyer Fees,-35
+Artsy,Pet Smart,-30
+Sci-fi,Goods2 - ThinkGeek,-31
+Athletic,Dick's Sporting Goods,-31
+Student,Amazon Order - Biology Book,-30
+Drinking,John's Bar & Restaurant,-30
+Eating-in,Sprouts Market,-30
+Married,Wedding Planner,-30
+Home/Apartment Owner,Housing Rent,-1060
+Married,Kay Jewelry,-29
+No-car,Bike Rental,-30
+Moving,Refrigerator Depot,-31
+No-car,Food Delivery - Uber Eats,-30
+Eating-in,Food Delivery - GrubHub,-31
+Drinking,Rodriguez's Bar and Grill,-30
+Moving,Hamilton Move & Storage,-28
+Student,Science Museum,-30
+Eating Out,Restaurant - Burgers,-30
+Student,Amazon Order - Science Book,-29
+Athletic,Total Gym Fees,-30
+Drinking,Fisker Night Club,-30
+Credit Card,Credit Card Payment,-154
+Student,Navient - Student Loans,-197
+Parent,BuyBuyBaby.com,-28
+Sports,NFL Ticket - Chargers,-30
+Travel,Best Western Hotel,-31
+Drinking,Green Flash Brewery,-30
+Student,ACS - Student Loans,-135
+Artsy,Art Auction,-31
+Pet-owner,Online Education Courses,-28
+Literaturey,Library Membership,-30

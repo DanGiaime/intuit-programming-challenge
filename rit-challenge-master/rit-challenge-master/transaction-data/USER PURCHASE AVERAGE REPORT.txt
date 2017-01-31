@@ -1,0 +1,100 @@
+Amazon Order - Paint Bushes,-30
+Podcast Subscription,-29
+Guitar Center,-30
+Credit Card Overdraft Fee,-31
+Comfort Inn,-29
+PlayStation Membership,-29
+Taxi,-29
+Lyft,-30
+Amazon Order - Baby Crib,-31
+Home Depot,-27
+On Demand Movie,-31
+Bowling,-29
+Public Transportation - Bus Pass,-30
+Athletic Apparel,-30
+Pet Supply - Cat Food,-31
+Restaurant - Pizza,-30
+Babies "R" Us,-32
+Uber,-30
+Amazon Order - Athletic Equipment,-29
+Time Warner Cable,-25
+Southwest Flights - Cancun,-29
+Wine Bar,-30
+Wine Delivery,-31
+Concert Ticket,-30
+Paycheck,3265
+Bank Fee - Negative Balance,-31
+Hospital - Prenatal Care,-30
+GNC,-31
+Seaside Bar,-29
+Karaoke Bar,-30
+DVD - Star Trek,-31
+Michael's Crafts,-30
+Amazon Order - Star Wars Figurine,-31
+Coffee,-31
+Vitamin Shoppe,-30
+Art's Art Supplies,-30
+Mark's Movers,-30
+Time Warne Cable - Late Payment Fee,-28
+Restaurant - Steakhouse,-30
+Public Transportation - Train Pass,-30
+Movie Ticket,-30
+Whole Foods,-30
+Art Museum,-31
+Mary's Book Store,-31
+Restaurant - Chinese,-30
+Ice Skating Rink,-29
+Water & Sewer - Late Payment Penalty,-30
+On Demand TV,-29
+Amazon Order - Paint Canvas,-31
+Gas & Electric,-32
+Sam's Sporting Apparel,-29
+Video Game - PlayStation,-30
+Jerome's Furniture,-29
+Owl Night Club,-31
+Amazon Order - Mathematics Book,-31
+Painting Course Fees,-30
+Netflix Subscription,-5
+San Diego Museum,-30
+Von's Groceries,-29
+Cancun Beach Resort,-30
+Ralph's Grocery Store,-30
+NBA Ticket - Lakers,-30
+Music Lessons - Piano,-30
+Red Box DVD Rental,-31
+Starbucks Coffee,-31
+Water & Sewer,-53
+FedEx Shipping,-31
+Housing Rent - Late Fee,-29
+Ashley's Craft Store,-30
+Divorce Lawyer Fees,-35
+Pet Smart,-30
+Goods2 - ThinkGeek,-31
+Dick's Sporting Goods,-31
+Amazon Order - Biology Book,-30
+John's Bar & Restaurant,-30
+Sprouts Market,-30
+Wedding Planner,-30
+Housing Rent,-1060
+Kay Jewelry,-29
+Bike Rental,-30
+Refrigerator Depot,-31
+Food Delivery - Uber Eats,-30
+Food Delivery - GrubHub,-31
+Rodriguez's Bar and Grill,-30
+Hamilton Move & Storage,-28
+Science Museum,-30
+Restaurant - Burgers,-30
+Amazon Order - Science Book,-29
+Total Gym Fees,-30
+Fisker Night Club,-30
+Credit Card Payment,-154
+Navient - Student Loans,-197
+BuyBuyBaby.com,-28
+NFL Ticket - Chargers,-30
+Best Western Hotel,-31
+Green Flash Brewery,-30
+ACS - Student Loans,-135
+Art Auction,-31
+Online Education Courses,-28
+Library Membership,-30
