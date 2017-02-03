@@ -26,9 +26,7 @@ public class TraitClassifier {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
-        //JFileChooser fc = new JFileChooser();
-        //int returnVal = fc.showSaveDialog(null);
-        //String file = fc.getSelectedFile().getAbsolutePath();
+        
         ArrayList<TransactionType> classifiers = new ArrayList<TransactionType>(50);
         classifiers.add(new TransactionType("Fiscally-irresponsible", new String[]{"negative", "overdraft", "overdue", "late"}));
         classifiers.add(new TransactionType("Drinking", new String[]{"bar", "night club", "club", "wine", "beer", "brewery"}));
@@ -61,15 +59,16 @@ public class TraitClassifier {
         classifiers.add(new TransactionType("Credit-Card", new String[]{"credit", "card"}));
 
         for (int i = 0; i < 100; i++) {
-            String file = "D:\\College\\Intuit Programming Challenge\\rit-challenge"
-                    + "-master\\rit-challenge-master\\transaction-data"
-                    + "\\user-" + i + ".csv";
+            System.out.println("Classifying user-" + i + "'s transactions");
+            //Grab next user
+            String file = "user-" + i + ".csv";
+            //Start writing
             BufferedWriter bw;
             FileWriter fw = new FileWriter(
                     file.substring(0, file.length() - 4)
                     + "(CLASSIFIED).csv");
             bw = new BufferedWriter(fw);
-            //classifiers.add(new TransactionType("", new String[]{}));
+            
             boolean lineOne = true;
             try (Stream<String> inputLines = Files.lines(Paths.get(file))) {
 
@@ -94,6 +93,6 @@ public class TraitClassifier {
             bw.close();
             fw.close();
         }
-
+        System.out.println("Classification complete");
     }
 }

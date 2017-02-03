@@ -25,9 +25,7 @@ public class WordToVec {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
-        String file = "D:\\College\\Intuit Programming Challenge\\rit-challenge"
-                + "-master\\rit-challenge-master\\transaction-data"
-                + "\\USER CLASSIFIER LANGUAGE.txt";
+        String file = "USER CLASSIFIER LANGUAGE.txt";
         HashMap<String, Integer> vectorizer = new HashMap(28);
 
         try (Stream<String> inputLines = Files.lines(Paths.get(file))) {
@@ -42,25 +40,23 @@ public class WordToVec {
         double[][] examples = new double[100][28];
         int curr = 0;
         for (int i = 0; i < 100; i++) {
-            String file2 = "D:\\College\\Intuit Programming Challenge\\rit-challenge"
-                    + "-master\\rit-challenge-master\\transaction-data"
-                    + "\\user-" + i + "(CLASSIFIED)(SIMPLIFIED).csv";
-
+            String file2 = "user-" + i + "(CLASSIFIED)(SIMPLIFIED).csv";
+            System.out.println("Vectorizing user-" + i + "'s transasctions");
             try (Stream<String> inputLines2 = Files.lines(Paths.get(file2))) {
-                //Loads language into map
+                //Iterate through, create vectors from each classifier
+                //Where each column is a classifier, and its value is 
+                //the % spent on that classifier for the current person
                 double sum = 0;
                 for (String line : (Iterable<String>) inputLines2::iterator) {
                     String[] data = line.split(",");
                     String classifier = data[0];
                     double amt = Double.parseDouble(data[1]);
                     sum += amt;
-                    System.out.println(classifier);
                     examples[curr][vectorizer.get(classifier)] = amt;
                 }
                 for (int j = 0; j < 28; j++) {
                     examples[curr][j] /= sum;
                 }
-                System.out.println("-----------------");
                 curr++;
             }
         }
@@ -69,40 +65,27 @@ public class WordToVec {
         for (int i = 0; i < examples.length; i++) {
             bestMatches[i] = findClosestPerson(examples, i);
         }
-        System.out.println(Arrays.toString(bestMatches));
+        //Write out best matches to the file
         writeMatchesToFile(file, bestMatches);
-        for (int i = 0; i < examples.length; i++) {
-            
-        }
     }
-
-    /*static public void writeMatrixToFile(String file, double[][] examples) throws IOException {
-        BufferedWriter bw;
-        FileWriter fw = new FileWriter(
-                file.substring(0, file.length() - 4) + "(MATRIX).csv");
-        bw = new BufferedWriter(fw);
-
-        for (int i = 0; i < 100; i++) {
-            for (int j = 0; j < 28; j++) {
-                bw.write(examples[i][j] + ",");
-            }
-            bw.newLine();
-        }
-        bw.close();
-        fw.close();
-    }*/
-
+    
     //Writes matches to file. Acknowledges perfect matches.
-    static public void writeMatchesToFile(String file, int[] matches) throws IOException {
+    static public void writeMatchesToFile(String file, int[] matches)
+            throws IOException {
         BufferedWriter bw;
         FileWriter fw = new FileWriter(
-                file.substring(0, file.length() - 4) + "(MATCHES).csv");
+                file.substring(0, file.length() - 24) + " MATCHES.csv");
         bw = new BufferedWriter(fw);
+        //Write matches
         for (int i = 0; i < matches.length; i++) {
+            System.out.print("user-" + i + " matches with user-" + matches[i]);
             bw.write("user-" + i + " matches with user-" + matches[i]);
+            //if user-x and user-y match with eachother, write perf. match
             if (i == matches[matches[i]]) {
+                System.out.print(" -- Perfect match!");
                 bw.write(" -- Perfect match!");
             }
+            System.out.println();
             bw.newLine();
         }
         bw.close();

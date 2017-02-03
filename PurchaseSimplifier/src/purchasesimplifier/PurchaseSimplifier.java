@@ -31,10 +31,9 @@ public class PurchaseSimplifier {
         //String file = fc.getSelectedFile().getAbsolutePath();
         String file = "";
         for (int i = 0; i < 100; i++) {
+            System.out.println("Simplifying user-" + i + "'s transactions");
             HashMap<String, Double> transactions = new HashMap();
-            file = "D:\\College\\Intuit Programming Challenge\\"
-                    + "rit-challenge-master\\rit-challenge-master\\"
-                    + "transaction-data\\user-" + i + "(CLASSIFIED).csv";
+            file = "user-" + i + "(CLASSIFIED).csv";
             try (Stream<String> inputLines = Files.lines(Paths.get(file))) {
                 //boolean lineOne = true;
                 for (String line : (Iterable<String>) inputLines::iterator) {
