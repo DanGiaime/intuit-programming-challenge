@@ -3,7 +3,7 @@ Intuit@RIT programming challenge attempt. Keeping people together longer through
 
 All that is needed to run this solution is the transaction data folder with the 3 executable .jars in it.
 
-First, download this folder.
+First, download the transaction-data folder found in rit-challenge-master.
 
 Second, navigate to this folder using a command prompt of sorts.
 
@@ -11,7 +11,7 @@ Third, run each .jar, in order, using the following commands.
 
 	java -jar TraitClassifier.jar
 
-	jara -jar PurchaseSimplifier.jar
+	java -jar PurchaseSimplifier.jar
 
 	java -jar WordToVec.jar
 
