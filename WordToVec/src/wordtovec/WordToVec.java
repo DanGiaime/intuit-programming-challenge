@@ -10,6 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.stream.Stream;
 import javax.swing.JFileChooser;
@@ -24,11 +25,10 @@ public class WordToVec {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
-        JFileChooser fc = new JFileChooser();
-        System.out.println("Choose Language File");
-        int returnVal = fc.showSaveDialog(null);
-        String file = fc.getSelectedFile().getAbsolutePath();
-        HashMap<String, Integer> vectorizer = new HashMap(168);
+        String file = "D:\\College\\Intuit Programming Challenge\\rit-challenge"
+                + "-master\\rit-challenge-master\\transaction-data"
+                + "\\USER CLASSIFIER LANGUAGE.txt";
+        HashMap<String, Integer> vectorizer = new HashMap(28);
 
         try (Stream<String> inputLines = Files.lines(Paths.get(file))) {
             //Loads language into map
@@ -39,43 +39,94 @@ public class WordToVec {
             }
         }
 
-        JFileChooser fc2 = new JFileChooser();
-        System.out.println("choose file to matricize");
-        int returnVal2 = fc2.showSaveDialog(null);
-        String file2 = fc2.getSelectedFile().getAbsolutePath();
-        int[][] examples = new int[60][188];
+        double[][] examples = new double[100][28];
+        int curr = 0;
+        for (int i = 0; i < 100; i++) {
+            String file2 = "D:\\College\\Intuit Programming Challenge\\rit-challenge"
+                    + "-master\\rit-challenge-master\\transaction-data"
+                    + "\\user-" + i + "(CLASSIFIED)(SIMPLIFIED).csv";
 
-        try (Stream<String> inputLines2 = Files.lines(Paths.get(file2))) {
-            //Loads language into map
-            int curr = 0;
-            for (String line : (Iterable<String>) inputLines2::iterator) {
-                line = line.substring(0, line.indexOf(',')).toLowerCase();
-                String[] words = line.split(" ");
-                for (String word : words) {
-                    System.out.println(vectorizer.get(word));
-                    examples[curr][vectorizer.get(word)] = 1;
+            try (Stream<String> inputLines2 = Files.lines(Paths.get(file2))) {
+                //Loads language into map
+                double sum = 0;
+                for (String line : (Iterable<String>) inputLines2::iterator) {
+                    String[] data = line.split(",");
+                    String classifier = data[0];
+                    double amt = Double.parseDouble(data[1]);
+                    sum += amt;
+                    System.out.println(classifier);
+                    examples[curr][vectorizer.get(classifier)] = amt;
                 }
+                for (int j = 0; j < 28; j++) {
+                    examples[curr][j] /= sum;
+                }
+                System.out.println("-----------------");
                 curr++;
             }
         }
+        //Woo! We got percentage wise vectors! let's start comparing.
+        int[] bestMatches = new int[examples.length];
+        for (int i = 0; i < examples.length; i++) {
+            bestMatches[i] = findClosestPerson(examples, i);
+        }
+        System.out.println(Arrays.toString(bestMatches));
+        writeMatchesToFile(file, bestMatches);
+        for (int i = 0; i < examples.length; i++) {
+            
+        }
+    }
 
+    /*static public void writeMatrixToFile(String file, double[][] examples) throws IOException {
         BufferedWriter bw;
         FileWriter fw = new FileWriter(
-                file.substring(0, file.length() - 4) + "(SUMMARY).mat");
+                file.substring(0, file.length() - 4) + "(MATRIX).csv");
         bw = new BufferedWriter(fw);
-        bw.write("X = [");
-        bw.newLine();
 
-        for (int i = 0; i < examples.length; i++) {
-            for (int j = 0; j < examples[i].length; j++) {
-                bw.write(examples[i][j] + " ");
+        for (int i = 0; i < 100; i++) {
+            for (int j = 0; j < 28; j++) {
+                bw.write(examples[i][j] + ",");
             }
-            bw.write(";");
             bw.newLine();
         }
-        
-        bw.write("]");
         bw.close();
         fw.close();
+    }*/
+
+    //Writes matches to file. Acknowledges perfect matches.
+    static public void writeMatchesToFile(String file, int[] matches) throws IOException {
+        BufferedWriter bw;
+        FileWriter fw = new FileWriter(
+                file.substring(0, file.length() - 4) + "(MATCHES).csv");
+        bw = new BufferedWriter(fw);
+        for (int i = 0; i < matches.length; i++) {
+            bw.write("user-" + i + " matches with user-" + matches[i]);
+            if (i == matches[matches[i]]) {
+                bw.write(" -- Perfect match!");
+            }
+            bw.newLine();
+        }
+        bw.close();
+        fw.close();
+    }
+
+    //Returns index of closest person.
+    static public int findClosestPerson(double[][] examples, int index) {
+        double[] distances = new double[examples.length];
+        for (int i = 0; i < distances.length; i++) {
+            for (int j = 0; j < examples[0].length; j++) {
+                //Distances formula! A lot!
+                distances[i]
+                        += Math.pow(examples[index][j] - examples[i][j], 2);
+            }
+        }
+        //Grab a random, nonzero value to start with for min
+        int minIndex = (index == 0) ? (1) : (0);
+
+        for (int i = 0; i < distances.length; i++) {
+            if (distances[i] < distances[minIndex] && i != index) {
+                minIndex = i;
+            }
+        }
+        return minIndex;
     }
 }
